@@ -294,3 +294,24 @@ TaskCompletion 1──0..1 Proof
   - Week labels also use `flex-1` and center-align above their column
 
 ---
+
+## [2026-03-19] GitHub Repository Created
+
+### Setup
+- Initialized git repo with `git init`
+- Created `.gitignore` — excludes `venv/`, `node_modules/`, `.env`, `*.db`, `uploads/`, `dist/`, IDE files, OS files
+- Removed accidentally committed `backend/instance/dev.db` from tracking
+
+### Commits
+1. `c29baa9` — `feat: initial release — 75-Day Challenge Tracker v1` (114 files, 8074 insertions)
+2. `de85dab` — `chore: remove dev.db from tracking, update gitignore`
+
+### Repository
+- **URL**: https://github.com/vedaant18/75-days-challenge-app
+- **Visibility**: Public
+- **Account**: vedaant18
+- **Branch**: master
+- **Remote**: origin (HTTPS)
+- Installed GitHub CLI (`gh`) via winget, authenticated via `gh auth login`
+
+---
